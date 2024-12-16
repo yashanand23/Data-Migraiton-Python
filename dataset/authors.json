@@ -1,0 +1,802 @@
+[
+    {
+        "author_id": 1,
+        "name": "Rose Walker",
+        "birth_year": 1957,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 2,
+        "name": "Amanda Peterson",
+        "birth_year": 1927,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 3,
+        "name": "Frank Benson",
+        "birth_year": 1947,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 4,
+        "name": "Ashley Murphy",
+        "birth_year": 1941,
+        "death_year": 1941,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 5,
+        "name": "Scott Kaufman",
+        "birth_year": 1996,
+        "death_year": 1984,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 6,
+        "name": "Matthew Jimenez",
+        "birth_year": 1900,
+        "death_year": 1945,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 7,
+        "name": "Christina Carr",
+        "birth_year": 1982,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 8,
+        "name": "Patricia Torres",
+        "birth_year": 1900,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 9,
+        "name": "Michael Ali",
+        "birth_year": 1917,
+        "death_year": 2011,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 10,
+        "name": "Alfred Barton Jr.",
+        "birth_year": 1986,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 11,
+        "name": "Lisa Bean",
+        "birth_year": 1999,
+        "death_year": 2023,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 12,
+        "name": "Daniel Luna",
+        "birth_year": 1990,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 13,
+        "name": "Sheryl Miranda",
+        "birth_year": 1971,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 14,
+        "name": "Aaron Rodriguez",
+        "birth_year": 1966,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 15,
+        "name": "Joseph Black",
+        "birth_year": 1926,
+        "death_year": 1902,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 16,
+        "name": "Heather Lindsey",
+        "birth_year": 1990,
+        "death_year": 1913,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 17,
+        "name": "Ariel Diaz",
+        "birth_year": 1962,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 18,
+        "name": "Kyle Solis",
+        "birth_year": 1921,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 19,
+        "name": "Jonathan Brown",
+        "birth_year": 1965,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 20,
+        "name": "Deanna Martinez",
+        "birth_year": 1940,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 21,
+        "name": "Edward Ramirez",
+        "birth_year": 1990,
+        "death_year": 1915,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 22,
+        "name": "Patricia Owen",
+        "birth_year": 1958,
+        "death_year": 1934,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 23,
+        "name": "Robert Stephenson",
+        "birth_year": 1964,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 24,
+        "name": "Brian Wilson",
+        "birth_year": 1957,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 25,
+        "name": "Joshua Smith",
+        "birth_year": 1954,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 26,
+        "name": "Kyle Rosales",
+        "birth_year": 1909,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 27,
+        "name": "Lori Roberts",
+        "birth_year": 1945,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 28,
+        "name": "Jamie Jackson",
+        "birth_year": 1918,
+        "death_year": 1935,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 29,
+        "name": "Dr. Harold Johnson",
+        "birth_year": 1966,
+        "death_year": 1975,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 30,
+        "name": "Philip Sanchez",
+        "birth_year": 1901,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 31,
+        "name": "Jennifer Snow",
+        "birth_year": 1987,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 32,
+        "name": "Adrian White",
+        "birth_year": 1975,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 33,
+        "name": "Stefanie Baker",
+        "birth_year": 1997,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 34,
+        "name": "Jeffery Thomas",
+        "birth_year": 1979,
+        "death_year": 2016,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 35,
+        "name": "Michael Jones",
+        "birth_year": 1969,
+        "death_year": 1953,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 36,
+        "name": "John Barrera",
+        "birth_year": 1993,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 37,
+        "name": "Steven Burnett",
+        "birth_year": 1986,
+        "death_year": 1993,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 38,
+        "name": "John Vargas",
+        "birth_year": 1919,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 39,
+        "name": "Kevin Myers",
+        "birth_year": 1937,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 40,
+        "name": "Anne Collins",
+        "birth_year": 1995,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 41,
+        "name": "Ryan Ramirez",
+        "birth_year": 1968,
+        "death_year": 1990,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 42,
+        "name": "Leslie Leonard",
+        "birth_year": 1953,
+        "death_year": 1977,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 43,
+        "name": "William Davila",
+        "birth_year": 1972,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 44,
+        "name": "Christian Becker",
+        "birth_year": 1909,
+        "death_year": 1955,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 45,
+        "name": "Brenda Williams",
+        "birth_year": 1994,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 46,
+        "name": "Zachary Jensen",
+        "birth_year": 1970,
+        "death_year": 1950,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 47,
+        "name": "Dennis Stewart",
+        "birth_year": 1925,
+        "death_year": 1903,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 48,
+        "name": "Kimberly Vaughn",
+        "birth_year": 1981,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 49,
+        "name": "Tiffany Moore",
+        "birth_year": 1964,
+        "death_year": 2017,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 50,
+        "name": "James Woodard",
+        "birth_year": 1914,
+        "death_year": 2009,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 51,
+        "name": "Julia Huber",
+        "birth_year": 1933,
+        "death_year": 1949,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 52,
+        "name": "George Martin",
+        "birth_year": 1901,
+        "death_year": 1936,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 53,
+        "name": "Jamie Peterson",
+        "birth_year": 1969,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 54,
+        "name": "Christopher Wilcox",
+        "birth_year": 1929,
+        "death_year": 1980,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 55,
+        "name": "Jacqueline Russell",
+        "birth_year": 1984,
+        "death_year": 1923,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 56,
+        "name": "Tabitha Mcpherson",
+        "birth_year": 1964,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 57,
+        "name": "Kenneth Cobb",
+        "birth_year": 1920,
+        "death_year": 1930,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 58,
+        "name": "Sheri Taylor",
+        "birth_year": 1947,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 59,
+        "name": "Lisa Weaver",
+        "birth_year": 1962,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 60,
+        "name": "Travis Mcclain",
+        "birth_year": 1911,
+        "death_year": 1965,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 61,
+        "name": "Donna Mcconnell",
+        "birth_year": 1913,
+        "death_year": 1956,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 62,
+        "name": "Richard Hall",
+        "birth_year": 1970,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 63,
+        "name": "Michael Austin Jr.",
+        "birth_year": 1974,
+        "death_year": 1980,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 64,
+        "name": "Cody Avila",
+        "birth_year": 1973,
+        "death_year": 2015,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 65,
+        "name": "Jeff Perez",
+        "birth_year": 1922,
+        "death_year": 1935,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 66,
+        "name": "Elizabeth Mays",
+        "birth_year": 1985,
+        "death_year": 1910,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 67,
+        "name": "Jennifer Small",
+        "birth_year": 1974,
+        "death_year": 1930,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 68,
+        "name": "Dr. John Wallace IV",
+        "birth_year": 1902,
+        "death_year": 1927,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 69,
+        "name": "Kimberly Brown",
+        "birth_year": 1916,
+        "death_year": 1997,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 70,
+        "name": "Tammy Hickman",
+        "birth_year": 1968,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 71,
+        "name": "Kathryn Moore",
+        "birth_year": 1907,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 72,
+        "name": "Alicia Bender",
+        "birth_year": 1908,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 73,
+        "name": "Daniel Hopkins",
+        "birth_year": 1961,
+        "death_year": 2020,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 74,
+        "name": "James Bolton",
+        "birth_year": 1929,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 75,
+        "name": "Robert Yu",
+        "birth_year": 1980,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 76,
+        "name": "Shannon Watson",
+        "birth_year": 1926,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 77,
+        "name": "Cassie Clarke",
+        "birth_year": 1901,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 78,
+        "name": "Drew Webb",
+        "birth_year": 1988,
+        "death_year": 1976,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 79,
+        "name": "Joseph Scott",
+        "birth_year": 1936,
+        "death_year": 2007,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 80,
+        "name": "Meredith Powell",
+        "birth_year": 1956,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 81,
+        "name": "Brittany Zhang",
+        "birth_year": 1970,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 82,
+        "name": "William Cole",
+        "birth_year": 1913,
+        "death_year": 1983,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 83,
+        "name": "Michelle Chavez",
+        "birth_year": 1965,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 84,
+        "name": "Daniel Mitchell",
+        "birth_year": 1941,
+        "death_year": 1982,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 85,
+        "name": "Sean Roberts",
+        "birth_year": 1947,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 86,
+        "name": "Sarah Johnson",
+        "birth_year": 1956,
+        "death_year": 1939,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 87,
+        "name": "Allison Gibson",
+        "birth_year": 1951,
+        "death_year": 2007,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 88,
+        "name": "Robert Evans",
+        "birth_year": 2000,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 89,
+        "name": "Collin Harper",
+        "birth_year": 1994,
+        "death_year": 1947,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 90,
+        "name": "Stephen Bailey DDS",
+        "birth_year": 1932,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 91,
+        "name": "Jason Taylor",
+        "birth_year": 1930,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 92,
+        "name": "Victor Lee",
+        "birth_year": 1947,
+        "death_year": 1935,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 93,
+        "name": "Christine Marquez",
+        "birth_year": 1929,
+        "death_year": 1954,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 94,
+        "name": "Anthony James",
+        "birth_year": 1919,
+        "death_year": 1993,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 95,
+        "name": "Joseph Gonzalez",
+        "birth_year": 1920,
+        "death_year": 1959,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 96,
+        "name": "Sierra Rogers",
+        "birth_year": 1920,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 97,
+        "name": "Sara Rojas",
+        "birth_year": 1925,
+        "death_year": 1993,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 98,
+        "name": "Dr. Patrick Singh",
+        "birth_year": 1924,
+        "death_year": 1930,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 99,
+        "name": "Maureen Robinson",
+        "birth_year": 1931,
+        "death_year": 1945,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    },
+    {
+        "author_id": 100,
+        "name": "Christine Perry",
+        "birth_year": 1943,
+        "death_year": null,
+        "modified_date": "2024-01-28T17:46:21",
+        "last_modified_date": "2024-10-16T14:51:23.171124"
+    }
+]

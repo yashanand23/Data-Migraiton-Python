@@ -1,0 +1,243 @@
+2024-11-15 10:30:05,661 - INFO - Starting data extraction...
+2024-11-15 10:30:05,740 - INFO - Data extraction completed.
+2024-11-15 10:30:05,740 - INFO - Starting data transformation...
+2024-11-15 10:30:05,800 - INFO - Data transformation completed.
+2024-11-15 10:30:05,801 - INFO - Starting data loading process...
+2024-11-15 10:30:05,926 - INFO - package: mysql.connector.plugins
+2024-11-15 10:30:05,927 - INFO - plugin_name: caching_sha2_password
+2024-11-15 10:30:05,927 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-15 10:30:05,947 - INFO - Data loading completed.
+2024-11-15 10:30:05,948 - INFO - Starting reconciliation process...
+2024-11-15 10:30:05,954 - INFO - Connected to MongoDB.
+2024-11-15 10:30:06,020 - INFO - Connected to MySQL.
+2024-11-15 10:30:06,135 - INFO - Reconciling data for 'tags'.
+2024-11-15 10:30:06,135 - WARNING - No primary key defined for 'tags'. Skipping data integrity check.
+2024-11-15 10:30:06,136 - INFO - Reconciling data for 'to_read'.
+2024-11-15 10:30:06,137 - WARNING - No primary key defined for 'to_read'. Skipping data integrity check.
+2024-11-15 10:30:06,137 - INFO - Reconciling data for 'readers'.
+2024-11-15 10:30:06,138 - WARNING - No primary key defined for 'readers'. Skipping data integrity check.
+2024-11-15 10:30:06,138 - INFO - Reconciling data for 'ratings'.
+2024-11-15 10:30:06,139 - WARNING - No primary key defined for 'ratings'. Skipping data integrity check.
+2024-11-15 10:30:06,139 - INFO - Reconciling data for 'books'.
+2024-11-15 10:30:06,173 - INFO - Fetched 335 records from SQL table 'books'.
+2024-11-15 10:30:06,174 - WARNING - Row count mismatch for 'books': MongoDB=636, SQL=335
+2024-11-15 10:30:06,174 - WARNING - Skipping data integrity check for 'books' due to row count mismatch.
+2024-11-15 10:30:06,175 - INFO - Reconciling data for 'authors'.
+2024-11-15 10:30:06,176 - WARNING - No primary key defined for 'authors'. Skipping data integrity check.
+2024-11-15 10:30:06,177 - INFO - Reconciliation process completed.
+2024-11-15 10:30:06,179 - INFO - Reconciliation process completed.
+2024-11-15 10:30:06,181 - INFO - ETL process completed.
+2024-11-15 10:44:53,013 - INFO - Starting data extraction...
+2024-11-15 10:44:53,067 - INFO - Data extraction completed.
+2024-11-15 10:44:53,068 - INFO - Starting data transformation...
+2024-11-15 10:44:53,141 - INFO - Data transformation completed.
+2024-11-15 10:44:53,143 - INFO - Starting data loading process...
+2024-11-15 10:44:53,266 - INFO - package: mysql.connector.plugins
+2024-11-15 10:44:53,267 - INFO - plugin_name: caching_sha2_password
+2024-11-15 10:44:53,268 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-15 10:44:53,290 - INFO - Data loading completed.
+2024-11-15 10:44:53,290 - INFO - Starting reconciliation process...
+2024-11-15 10:44:53,298 - INFO - Connected to MongoDB.
+2024-11-15 10:44:53,381 - INFO - Connected to MySQL.
+2024-11-15 10:44:53,542 - INFO - Reconciling data for 'tags'.
+2024-11-15 10:44:53,543 - WARNING - No primary key defined for 'tags'. Skipping data integrity check.
+2024-11-15 10:44:53,544 - INFO - Reconciling data for 'to_read'.
+2024-11-15 10:44:53,545 - WARNING - No primary key defined for 'to_read'. Skipping data integrity check.
+2024-11-15 10:44:53,545 - INFO - Reconciling data for 'readers'.
+2024-11-15 10:44:53,547 - WARNING - No primary key defined for 'readers'. Skipping data integrity check.
+2024-11-15 10:44:53,548 - INFO - Reconciling data for 'ratings'.
+2024-11-15 10:44:53,550 - WARNING - No primary key defined for 'ratings'. Skipping data integrity check.
+2024-11-15 10:44:53,551 - INFO - Reconciling data for 'books'.
+2024-11-15 10:44:53,797 - INFO - Fetched 335 records from SQL table 'books'.
+2024-11-15 10:44:53,798 - WARNING - Row count mismatch for 'books': MongoDB=636, SQL=335
+2024-11-15 10:44:53,800 - WARNING - Skipping data integrity check for 'books' due to row count mismatch.
+2024-11-15 10:44:53,802 - INFO - Reconciling data for 'authors'.
+2024-11-15 10:44:53,803 - WARNING - No primary key defined for 'authors'. Skipping data integrity check.
+2024-11-15 10:44:53,809 - INFO - Reconciliation process completed.
+2024-11-15 10:44:53,813 - INFO - Reconciliation process completed.
+2024-11-15 10:44:53,815 - INFO - ETL process completed.
+2024-11-15 11:05:47,217 - INFO - Starting data extraction...
+2024-11-15 11:05:47,267 - INFO - Data extraction completed.
+2024-11-15 11:05:47,269 - INFO - Starting data transformation...
+2024-11-15 11:05:47,327 - INFO - Data transformation completed.
+2024-11-15 11:05:47,327 - INFO - Starting data loading process...
+2024-11-15 11:05:47,431 - INFO - package: mysql.connector.plugins
+2024-11-15 11:05:47,432 - INFO - plugin_name: caching_sha2_password
+2024-11-15 11:05:47,432 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-15 11:05:47,450 - INFO - Data loading completed.
+2024-11-15 11:05:47,451 - INFO - Starting reconciliation process...
+2024-11-15 11:05:47,456 - INFO - Connected to MongoDB.
+2024-11-15 11:05:47,513 - INFO - Connected to MySQL.
+2024-11-15 11:05:47,514 - INFO - Reconciling data for 'books'.
+2024-11-15 11:05:47,522 - INFO - Fetched 111 records from MongoDB collection 'books'.
+2024-11-15 11:05:47,552 - INFO - Fetched 335 records from SQL table 'books'.
+2024-11-15 11:05:47,553 - WARNING - Row count mismatch for 'books': MongoDB=111, SQL=335
+2024-11-15 11:05:47,553 - INFO - Reconciling data for 'authors'.
+2024-11-15 11:05:47,556 - INFO - Fetched 100 records from MongoDB collection 'authors'.
+2024-11-15 11:05:47,564 - INFO - Fetched 100 records from SQL table 'authors'.
+2024-11-15 11:05:47,565 - INFO - Row count matches for 'authors': 100 records.
+2024-11-15 11:05:47,566 - INFO - Reconciling data for 'ratings'.
+2024-11-15 11:05:47,569 - INFO - Fetched 200 records from MongoDB collection 'ratings'.
+2024-11-15 11:05:47,582 - INFO - Fetched 200 records from SQL table 'ratings'.
+2024-11-15 11:05:47,582 - INFO - Row count matches for 'ratings': 200 records.
+2024-11-15 11:05:47,583 - INFO - Reconciling data for 'tags'.
+2024-11-15 11:05:47,585 - INFO - Fetched 20 records from MongoDB collection 'tags'.
+2024-11-15 11:05:47,590 - INFO - Fetched 20 records from SQL table 'tags'.
+2024-11-15 11:05:47,591 - INFO - Row count matches for 'tags': 20 records.
+2024-11-15 11:05:47,591 - INFO - Reconciling data for 'to_read'.
+2024-11-15 11:05:47,594 - INFO - Fetched 100 records from MongoDB collection 'to_read'.
+2024-11-15 11:05:47,600 - INFO - Fetched 100 records from SQL table 'to_read'.
+2024-11-15 11:05:47,601 - INFO - Row count matches for 'to_read': 100 records.
+2024-11-15 11:05:47,601 - INFO - Reconciling data for 'readers'.
+2024-11-15 11:05:47,605 - INFO - Fetched 100 records from MongoDB collection 'readers'.
+2024-11-15 11:05:47,612 - INFO - Fetched 100 records from SQL table 'readers'.
+2024-11-15 11:05:47,613 - INFO - Row count matches for 'readers': 100 records.
+2024-11-15 11:05:47,617 - INFO - Reconciliation process completed.
+2024-11-15 11:05:47,619 - INFO - Reconciliation process completed.
+2024-11-15 11:05:47,620 - INFO - ETL process completed.
+2024-11-15 12:37:33,987 - INFO - Starting data extraction...
+2024-11-15 12:37:34,047 - INFO - Data extraction completed.
+2024-11-15 12:37:34,049 - INFO - Starting data transformation...
+2024-11-15 12:37:34,097 - INFO - Data transformation completed.
+2024-11-15 12:37:34,098 - INFO - Starting data loading process...
+2024-11-15 12:37:34,190 - INFO - package: mysql.connector.plugins
+2024-11-15 12:37:34,191 - INFO - plugin_name: caching_sha2_password
+2024-11-15 12:37:34,191 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-15 12:37:34,220 - INFO - Data loading completed.
+2024-11-15 12:37:34,220 - INFO - Starting reconciliation process...
+2024-11-15 12:37:34,224 - INFO - Connected to MongoDB.
+2024-11-15 12:37:34,290 - INFO - Connected to MySQL.
+2024-11-15 12:37:34,290 - INFO - Reconciling data for 'books'.
+2024-11-15 12:37:34,316 - INFO - Fetched and grouped 111 records from MongoDB collection 'books'.
+2024-11-15 12:37:34,365 - INFO - Fetched 335 records from SQL table 'books'.
+2024-11-15 12:37:34,366 - WARNING - Row count mismatch for 'books': MongoDB=111, SQL=335
+2024-11-15 12:37:34,366 - INFO - Reconciling data for 'authors'.
+2024-11-15 12:37:34,371 - INFO - Fetched and grouped 0 records from MongoDB collection 'authors'.
+2024-11-15 12:37:34,372 - WARNING - No data found in MongoDB for collection 'authors'. Skipping reconciliation.
+2024-11-15 12:37:34,372 - INFO - Reconciling data for 'ratings'.
+2024-11-15 12:37:34,375 - INFO - Fetched and grouped 0 records from MongoDB collection 'ratings'.
+2024-11-15 12:37:34,376 - WARNING - No data found in MongoDB for collection 'ratings'. Skipping reconciliation.
+2024-11-15 12:37:34,377 - INFO - Reconciling data for 'tags'.
+2024-11-15 12:37:34,380 - INFO - Fetched and grouped 0 records from MongoDB collection 'tags'.
+2024-11-15 12:37:34,380 - WARNING - No data found in MongoDB for collection 'tags'. Skipping reconciliation.
+2024-11-15 12:37:34,381 - INFO - Reconciling data for 'to_read'.
+2024-11-15 12:37:34,384 - INFO - Fetched and grouped 0 records from MongoDB collection 'to_read'.
+2024-11-15 12:37:34,384 - WARNING - No data found in MongoDB for collection 'to_read'. Skipping reconciliation.
+2024-11-15 12:37:34,385 - INFO - Reconciling data for 'readers'.
+2024-11-15 12:37:34,387 - INFO - Fetched and grouped 0 records from MongoDB collection 'readers'.
+2024-11-15 12:37:34,388 - WARNING - No data found in MongoDB for collection 'readers'. Skipping reconciliation.
+2024-11-15 12:37:34,390 - INFO - Reconciliation process completed.
+2024-11-15 12:37:34,391 - INFO - Reconciliation process completed.
+2024-11-15 12:37:34,392 - INFO - ETL process completed.
+2024-11-15 12:38:17,167 - INFO - Starting data extraction...
+2024-11-15 12:38:17,226 - INFO - Data extraction completed.
+2024-11-15 12:38:17,227 - INFO - Starting data transformation...
+2024-11-15 12:38:17,284 - INFO - Data transformation completed.
+2024-11-15 12:38:17,285 - INFO - Starting data loading process...
+2024-11-15 12:38:17,385 - INFO - package: mysql.connector.plugins
+2024-11-15 12:38:17,385 - INFO - plugin_name: caching_sha2_password
+2024-11-15 12:38:17,385 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-15 12:38:17,402 - INFO - Data loading completed.
+2024-11-15 12:38:17,403 - INFO - Starting reconciliation process...
+2024-11-15 12:38:17,408 - INFO - Connected to MongoDB.
+2024-11-15 12:38:17,472 - INFO - Connected to MySQL.
+2024-11-15 12:38:17,472 - INFO - Reconciling data for 'books'.
+2024-11-15 12:38:17,478 - INFO - Fetched and grouped 111 records from MongoDB collection 'books'.
+2024-11-15 12:38:17,501 - INFO - Fetched 335 records from SQL table 'books'.
+2024-11-15 12:38:17,501 - WARNING - Row count mismatch for 'books': MongoDB=111, SQL=335
+2024-11-15 12:38:17,502 - INFO - Reconciling data for 'authors'.
+2024-11-15 12:38:17,506 - INFO - Fetched and grouped 0 records from MongoDB collection 'authors'.
+2024-11-15 12:38:17,507 - WARNING - No data found in MongoDB for collection 'authors'. Skipping reconciliation.
+2024-11-15 12:38:17,508 - INFO - Reconciling data for 'ratings'.
+2024-11-15 12:38:17,511 - INFO - Fetched and grouped 0 records from MongoDB collection 'ratings'.
+2024-11-15 12:38:17,511 - WARNING - No data found in MongoDB for collection 'ratings'. Skipping reconciliation.
+2024-11-15 12:38:17,512 - INFO - Reconciling data for 'tags'.
+2024-11-15 12:38:17,514 - INFO - Fetched and grouped 0 records from MongoDB collection 'tags'.
+2024-11-15 12:38:17,515 - WARNING - No data found in MongoDB for collection 'tags'. Skipping reconciliation.
+2024-11-15 12:38:17,516 - INFO - Reconciling data for 'to_read'.
+2024-11-15 12:38:17,518 - INFO - Fetched and grouped 0 records from MongoDB collection 'to_read'.
+2024-11-15 12:38:17,520 - WARNING - No data found in MongoDB for collection 'to_read'. Skipping reconciliation.
+2024-11-15 12:38:17,520 - INFO - Reconciling data for 'readers'.
+2024-11-15 12:38:17,523 - INFO - Fetched and grouped 0 records from MongoDB collection 'readers'.
+2024-11-15 12:38:17,523 - WARNING - No data found in MongoDB for collection 'readers'. Skipping reconciliation.
+2024-11-15 12:38:17,525 - INFO - Reconciliation process completed.
+2024-11-15 12:38:17,527 - INFO - Reconciliation process completed.
+2024-11-15 12:38:17,527 - INFO - ETL process completed.
+2024-11-15 12:39:21,637 - INFO - Starting data extraction...
+2024-11-15 12:39:21,692 - INFO - Data extraction completed.
+2024-11-15 12:39:21,693 - INFO - Starting data transformation...
+2024-11-15 12:39:21,744 - INFO - Data transformation completed.
+2024-11-15 12:39:21,744 - INFO - Starting data loading process...
+2024-11-15 12:39:21,841 - INFO - package: mysql.connector.plugins
+2024-11-15 12:39:21,842 - INFO - plugin_name: caching_sha2_password
+2024-11-15 12:39:21,842 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-15 12:39:21,858 - INFO - Data loading completed.
+2024-11-15 12:39:21,858 - INFO - Starting reconciliation process...
+2024-11-15 12:39:21,864 - INFO - Connected to MongoDB.
+2024-11-15 12:39:21,928 - INFO - Connected to MySQL.
+2024-11-15 12:39:21,928 - INFO - Reconciling data for 'books'.
+2024-11-15 12:39:21,937 - INFO - Fetched 111 records from MongoDB collection 'books'.
+2024-11-15 12:39:21,968 - INFO - Fetched 335 records from SQL table 'books'.
+2024-11-15 12:39:21,969 - WARNING - Row count mismatch for 'books': MongoDB=111, SQL=335
+2024-11-15 12:39:21,969 - INFO - Reconciling data for 'authors'.
+2024-11-15 12:39:21,972 - INFO - Fetched 100 records from MongoDB collection 'authors'.
+2024-11-15 12:39:21,978 - INFO - Fetched 100 records from SQL table 'authors'.
+2024-11-15 12:39:21,979 - INFO - Row count matches for 'authors': 100 records.
+2024-11-15 12:39:21,980 - INFO - Reconciling data for 'ratings'.
+2024-11-15 12:39:21,984 - INFO - Fetched 200 records from MongoDB collection 'ratings'.
+2024-11-15 12:39:21,995 - INFO - Fetched 200 records from SQL table 'ratings'.
+2024-11-15 12:39:21,995 - INFO - Row count matches for 'ratings': 200 records.
+2024-11-15 12:39:21,996 - INFO - Reconciling data for 'tags'.
+2024-11-15 12:39:21,999 - INFO - Fetched 20 records from MongoDB collection 'tags'.
+2024-11-15 12:39:22,003 - INFO - Fetched 20 records from SQL table 'tags'.
+2024-11-15 12:39:22,004 - INFO - Row count matches for 'tags': 20 records.
+2024-11-15 12:39:22,005 - INFO - Reconciling data for 'to_read'.
+2024-11-15 12:39:22,008 - INFO - Fetched 100 records from MongoDB collection 'to_read'.
+2024-11-15 12:39:22,015 - INFO - Fetched 100 records from SQL table 'to_read'.
+2024-11-15 12:39:22,016 - INFO - Row count matches for 'to_read': 100 records.
+2024-11-15 12:39:22,016 - INFO - Reconciling data for 'readers'.
+2024-11-15 12:39:22,019 - INFO - Fetched 100 records from MongoDB collection 'readers'.
+2024-11-15 12:39:22,025 - INFO - Fetched 100 records from SQL table 'readers'.
+2024-11-15 12:39:22,026 - INFO - Row count matches for 'readers': 100 records.
+2024-11-15 12:39:22,028 - INFO - Reconciliation process completed.
+2024-11-15 12:39:22,029 - INFO - Reconciliation process completed.
+2024-11-15 12:39:22,030 - INFO - ETL process completed.
+2024-11-18 11:13:08,935 - INFO - Starting data extraction...
+2024-11-18 11:13:08,992 - INFO - Data extraction completed.
+2024-11-18 11:13:08,993 - INFO - Starting data transformation...
+2024-11-18 11:13:09,038 - INFO - Data transformation completed.
+2024-11-18 11:13:09,039 - INFO - Starting data loading process...
+2024-11-18 11:13:09,178 - INFO - package: mysql.connector.plugins
+2024-11-18 11:13:09,179 - INFO - plugin_name: caching_sha2_password
+2024-11-18 11:13:09,179 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-18 11:13:09,218 - INFO - Data loading completed.
+2024-11-18 11:13:09,219 - INFO - Starting reconciliation process...
+2024-11-18 11:13:09,226 - INFO - Connected to MongoDB.
+2024-11-18 11:13:09,291 - INFO - Connected to MySQL.
+2024-11-18 11:13:09,292 - INFO - Reconciling data for 'books'.
+2024-11-18 11:13:09,321 - INFO - Fetched 111 records from MongoDB collection 'books'.
+2024-11-18 11:13:09,338 - INFO - Fetched 111 records from SQL table 'books'.
+2024-11-18 11:13:09,338 - INFO - Row count matches for 'books': 111 records.
+2024-11-18 11:13:09,339 - INFO - Reconciling data for 'authors'.
+2024-11-18 11:13:09,342 - INFO - Fetched 100 records from MongoDB collection 'authors'.
+2024-11-18 11:13:09,349 - INFO - Fetched 100 records from SQL table 'authors'.
+2024-11-18 11:13:09,350 - INFO - Row count matches for 'authors': 100 records.
+2024-11-18 11:13:09,350 - INFO - Reconciling data for 'ratings'.
+2024-11-18 11:13:09,356 - INFO - Fetched 200 records from MongoDB collection 'ratings'.
+2024-11-18 11:13:09,363 - INFO - Fetched 200 records from SQL table 'ratings'.
+2024-11-18 11:13:09,364 - INFO - Row count matches for 'ratings': 200 records.
+2024-11-18 11:13:09,364 - INFO - Reconciling data for 'tags'.
+2024-11-18 11:13:09,366 - INFO - Fetched 20 records from MongoDB collection 'tags'.
+2024-11-18 11:13:09,371 - INFO - Fetched 20 records from SQL table 'tags'.
+2024-11-18 11:13:09,372 - INFO - Row count matches for 'tags': 20 records.
+2024-11-18 11:13:09,372 - INFO - Reconciling data for 'to_read'.
+2024-11-18 11:13:09,374 - INFO - Fetched 100 records from MongoDB collection 'to_read'.
+2024-11-18 11:13:09,380 - INFO - Fetched 100 records from SQL table 'to_read'.
+2024-11-18 11:13:09,381 - INFO - Row count matches for 'to_read': 100 records.
+2024-11-18 11:13:09,381 - INFO - Reconciling data for 'readers'.
+2024-11-18 11:13:09,384 - INFO - Fetched 100 records from MongoDB collection 'readers'.
+2024-11-18 11:13:09,390 - INFO - Fetched 100 records from SQL table 'readers'.
+2024-11-18 11:13:09,390 - INFO - Row count matches for 'readers': 100 records.
+2024-11-18 11:13:09,392 - INFO - Reconciliation process completed.
+2024-11-18 11:13:09,393 - INFO - Reconciliation process completed.
+2024-11-18 11:13:09,394 - INFO - ETL process completed.

@@ -1,0 +1,5 @@
+pymongo==4.5.0
+pandas==2.0.3
+sqlalchemy==2.0.19
+mysql-connector-python==8.0.33
+pymysql==1.1.0
